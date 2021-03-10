@@ -1,4 +1,5 @@
 ## 🌓 Dark Mode Switch inside Android Webview
+![Build](https://github.com/mcnaveen/Android-Webview-Darkmode-with-JavaScript/workflows/Build/badge.svg)
 
 This POC is implemented to explain how dark mode js can be used inside Android Webview Component [using DOMStorage API](https://github.com/mcnaveen/Android-Webview-Darkmode-with-JavaScript/blob/71b8714c31039dc2e02ba443bcfd996a4b6b1f0e/app/src/main/java/github/mcnaveen/webviewDarkMode/MainActivity.java#L34)
 
