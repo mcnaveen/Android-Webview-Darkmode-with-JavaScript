@@ -12,7 +12,7 @@ This POC is implemented to explain how dark mode js can be used inside Android W
 - [Download the APK from the Releases Tab](https://github.com/mcnaveen/Android-Webview-Darkmode-with-JavaScript/releases/)
 
 ### ⚠️ Warning
-This App using Deprecated API `webSetting.setDomStorageEnabled(true);` But this is the only possible working solution. Eventhough it's deprecated it can be safely used.
+This App uses the Deprecated API `webSetting.setDomStorageEnabled(true);`. But this is the only possible working solution. Even though it's deprecated it can be safely used.
 
 ## License
 - MIT
